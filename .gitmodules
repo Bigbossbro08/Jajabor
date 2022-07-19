@@ -1,0 +1,3 @@
+[submodule "CharacterLogic"]
+	path = Plugins/CharacterLogic
+	url = https://github.com/Bigbossbro08/CharacterLogic.git
