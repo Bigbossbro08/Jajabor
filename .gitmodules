@@ -1,3 +1,6 @@
 [submodule "Plugins/CharacterLogic"]
 	path = Plugins/CharacterLogic
 	url = https://github.com/Bigbossbro08/CharacterLogic
+[submodule "Plugins/TTToolbox"]
+	path = Plugins/TTToolbox
+	url = https://github.com/Bigbossbro08/TTToolbox
