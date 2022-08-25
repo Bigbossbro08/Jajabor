@@ -8,5 +8,5 @@
 	path = Plugins/FlowGraph
 	url = https://github.com/Bigbossbro08/FlowGraph
 [submodule "ProceduralHorse"]
-	path = ProceduralHorse
-	url = H:\\repos\\Jajabor\\Plugins\\ProceduralHorse
+	path = Plugins/ProceduralHorse
+	url = https://github.com/Bigbossbro08/ProceduralHorse
