@@ -10,3 +10,6 @@
 [submodule "ProceduralHorse"]
 	path = Plugins/ProceduralHorse
 	url = https://github.com/Bigbossbro08/ProceduralHorse
+[submodule "Plugins/ProceduralHorse"]
+	path = Plugins/ProceduralHorse
+	url = https://github.com/Bigbossbro08/ProceduralHorse
