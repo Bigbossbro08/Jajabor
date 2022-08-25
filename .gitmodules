@@ -4,3 +4,6 @@
 [submodule "Plugins/TTToolbox"]
 	path = Plugins/TTToolbox
 	url = https://github.com/Bigbossbro08/TTToolbox
+[submodule "Plugins/FlowGraph"]
+	path = Plugins/FlowGraph
+	url = https://github.com/Bigbossbro08/FlowGraph
